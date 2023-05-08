@@ -12,7 +12,7 @@ O objetivo do dashboard é apresentar o desmatamento na Amazônia Legal com base
 O dashboard permite visualizar o desmatamento na Amazônia Legal com base nos dados do PRODES. É possível fazer uma busca por período, visualizar o total de polígonos do PRODES e observar um mapa dos estados da região. Além disso, o dashboard apresenta uma tabela com o desmatamento acumulado por estado na região, um gráfico que exibe a evolução do desmatamento ao longo do tempo e um gráfico de pizza que mostra a porcentagem do desmatamento por estado.
 
 O GIF abaixo apresenta uma prévia da visualização do dashboard.
-<p align="center">
+<p >
 <img src="[https://github.com/Brularissap/dashboard-power-bi/blob/main/visualiza%C3%A7%C3%A3o-dashboard.PNG](https://github.com/Brularissap/dashboard-power-bi/blob/main/visualiza%C3%A7%C3%A3o-dashboard.gif)"/>
 </p>
 
