@@ -11,9 +11,9 @@ Este repositório demonstra exemplos de dashboards, criados por mim, no Power BI
 O objetivo do dashboard é apresentar o desmatamento na Amazônia Legal com base nos dados do PRODES. O PRODES (Projeto de Monitoramento do Desflorestamento na Amazônia Legal por Satélite) é um programa coordenado pelo Instituto Nacional de Pesquisas Espaciais (INPE) que utiliza imagens de satélite para monitorar e quantificar o desmatamento na Amazônia Legal. O programa é capaz de mapear e calcular as áreas desmatadas na região, sendo que a área mínima mapeada é de 6,25 hectares.
 O dashboard permite visualizar o desmatamento na Amazônia Legal com base nos dados do PRODES. É possível fazer uma busca por período, visualizar o total de polígonos do PRODES e observar um mapa dos estados da região. Além disso, o dashboard apresenta uma tabela com o desmatamento acumulado por estado na região, um gráfico que exibe a evolução do desmatamento ao longo do tempo e um gráfico de pizza que mostra a porcentagem do desmatamento por estado.
 
-A imagem abaixo apresenta uma prévia da visualização do dashboard.
+O GIF abaixo apresenta uma prévia da visualização do dashboard.
 <p align="center">
-<img src="https://github.com/Brularissap/dashboard-power-bi/blob/main/visualiza%C3%A7%C3%A3o-dashboard.PNG"/>
+<img src="[https://github.com/Brularissap/dashboard-power-bi/blob/main/visualiza%C3%A7%C3%A3o-dashboard.PNG](https://github.com/Brularissap/dashboard-power-bi/blob/main/visualiza%C3%A7%C3%A3o-dashboard.gif)"/>
 </p>
 
 Para criar o dashboard, utilizei os dados do Incremento anual no desmatamento - Shapefile (2008/2022), para Amazônia Legal, disponível para download no Terra Brasilis. No entanto, antes de importar esses dados diretamente para o Power BI, foi necessário realizar alguns procedimentos técnicos. Primeiramente, abri os dados no software QGIS e os espacializei, antes de exportá-los para uma planilha CSV no Excel. A partir daí, eu iniciei meu trabalho com esses dados no Power BI, onde extrai, transformei, carreguei e tratei as informações para criar o dashboard que apresento neste texto. 
