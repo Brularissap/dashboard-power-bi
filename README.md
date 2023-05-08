@@ -28,4 +28,21 @@ https://app.powerbi.com/view?r=eyJrIjoiZDYyMjY2MmItMDc4Yi00Y2EwLTg3YjctZjJhYTU2N
 É importante destacar que a preservação da Amazônia Legal é uma questão de grande importância, e o dashboard é uma ferramenta útil para monitorar e compreender a evolução do desmatamento na região. 
 Com essas informações, é possível tomar medidas para proteger a Amazônia Legal e garantir sua sustentabilidade a longo prazo.
 
+<h2>Projeto 2: Alura Pets</h2>
+
+Este é um projeto fictício desenvolvido durante o curso de Power BI da Alura. A dona do Petshop, Helô, deseja obter informações sobre as vendas de suas duas marcas de produtos, Doguito e Gatito, ao longo do tempo, bem como identificar quais produtos são mais vendidos, qual o faturamento total, a média de pets por cliente e o gênero que mais compra cada produto. Além disso, Helô tem planos de expansão e quer saber onde abrir uma nova loja com base nas informações de faturamento e clientes. 
+
+Com base nas fontes de dados, que incluíam tabelas de vendas em formato Excel, tabela TXT com informações dos clientes e tabela de produtos em formato Excel, utilizei as ferramentas do Power BI para tratar e modelar os dados. A partir disso, criei um dashboard com as informações solicitadas pela proprietária do Petshop Alura Pets, Helô.
+  
+<p>O GIF abaixo apresenta uma prévia da visualização do dashboard.</p>
+<p align="center">
+<img src="https://github.com/Brularissap/dashboard-power-bi/blob/main/alura-pets.gif"/>
+</p>
+
+O dashboard completo pode ser acessado através do seguinte link: 
+```
+https://app.powerbi.com/view?r=eyJrIjoiNTk1NmJjYjAtYjViYy00OWRhLThlZDgtNDMyMzhhMDQzYTZiIiwidCI6IjllYjM1NmMzLWE0OGYtNDc1NS04NDlkLWY5NzFiNzE1ODU5MiJ9
+
+```
+
 
