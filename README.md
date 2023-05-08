@@ -28,7 +28,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZDYyMjY2MmItMDc4Yi00Y2EwLTg3YjctZjJhYTU2N
 É importante destacar que a preservação da Amazônia Legal é uma questão de grande importância, e o dashboard é uma ferramenta útil para monitorar e compreender a evolução do desmatamento na região. 
 Com essas informações, é possível tomar medidas para proteger a Amazônia Legal e garantir sua sustentabilidade a longo prazo.
 
-<h2>Projeto 2: Alura Pets</h2>
+<h2>Projeto 2: Pet Shop Alura Pets</h2>
 
 Este é um projeto fictício desenvolvido durante o curso de Power BI da Alura. A dona do Petshop, Helô, deseja obter informações sobre as vendas de suas duas marcas de produtos, Doguito e Gatito, ao longo do tempo, bem como identificar quais produtos são mais vendidos, qual o faturamento total, a média de pets por cliente e o gênero que mais compra cada produto. Além disso, Helô tem planos de expansão e quer saber onde abrir uma nova loja com base nas informações de faturamento e clientes. 
 
@@ -44,5 +44,9 @@ O dashboard completo pode ser acessado através do seguinte link:
 https://app.powerbi.com/view?r=eyJrIjoiNTk1NmJjYjAtYjViYy00OWRhLThlZDgtNDMyMzhhMDQzYTZiIiwidCI6IjllYjM1NmMzLWE0OGYtNDc1NS04NDlkLWY5NzFiNzE1ODU5MiJ9
 
 ```
+<p>De acordo com os planos de expansão de Helô, proprietária do Pet Shop Alura Pets, de saber onde abrir uma nova loja com base nas informações de faturamento e clientes, é importante salientar que o gráfico de faturamento por bairro pode ser uma ferramenta valiosa. Esse gráfico, gerado a partir das tabelas de vendas e de clientes, permite identificar quais são os bairros onde a marca possui um bom desempenho e onde há uma demanda latente por produtos para animais de estimação.</p>
+<p>Com base nessas informações, Helô pode tomar uma decisão mais embasada sobre onde abrir sua nova loja, visando potencializar seu faturamento e aumentar a satisfação dos clientes. Além disso, o gráfico de faturamento por bairro pode ajudar a identificar tendências de mercado e oportunidades de negócio que possam ser exploradas pela empresa.</p>
+<p>Assim, fica claro que a análise do faturamento por bairro pode ser uma ferramenta estratégica para a expansão dos negócios do Pet Shop Alura Pets, auxiliando Helô a tomar decisões mais embasadas e a identificar novas oportunidades de mercado.</p>
+
 
 
