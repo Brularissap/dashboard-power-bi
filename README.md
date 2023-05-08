@@ -8,10 +8,10 @@
 Este repositório demonstra exemplos de dashboards, criados por mim, no Power BI. 
 
 <h2>Projeto 1: Dashboard do desmatamento na Amazônia Legal (AML), através dos dados do PRODES</h2>
-O objetivo do dashboard é apresentar o desmatamento na Amazônia Legal com base nos dados do PRODES. O PRODES (Projeto de Monitoramento do Desflorestamento na Amazônia Legal por Satélite) é um programa coordenado pelo Instituto Nacional de Pesquisas Espaciais (INPE) que utiliza imagens de satélite para monitorar e quantificar o desmatamento na Amazônia Legal. O programa é capaz de mapear e calcular as áreas desmatadas na região, sendo que a área mínima mapeada é de 6,25 hectares.
-O dashboard permite visualizar o desmatamento na Amazônia Legal com base nos dados do PRODES. É possível fazer uma busca por período, visualizar o total de polígonos do PRODES e observar um mapa dos estados da região. Além disso, o dashboard apresenta uma tabela com o desmatamento acumulado por estado na região, um gráfico que exibe a evolução do desmatamento ao longo do tempo e um gráfico de pizza que mostra a porcentagem do desmatamento por estado.
+<p>O objetivo do dashboard é apresentar o desmatamento na Amazônia Legal com base nos dados do PRODES. O PRODES (Projeto de Monitoramento do Desflorestamento na Amazônia Legal por Satélite) é um programa coordenado pelo Instituto Nacional de Pesquisas Espaciais (INPE) que utiliza imagens de satélite para monitorar e quantificar o desmatamento na Amazônia Legal. O programa é capaz de mapear e calcular as áreas desmatadas na região, sendo que a área mínima mapeada é de 6,25 hectares.
+O dashboard permite visualizar o desmatamento na Amazônia Legal com base nos dados do PRODES. É possível fazer uma busca por período, visualizar o total de polígonos do PRODES e observar um mapa dos estados da região. Além disso, o dashboard apresenta uma tabela com o desmatamento acumulado por estado na região, um gráfico que exibe a evolução do desmatamento ao longo do tempo e um gráfico de pizza que mostra a porcentagem do desmatamento por estado.</p>
 
-O GIF abaixo apresenta uma prévia da visualização do dashboard.
+<p>O GIF abaixo apresenta uma prévia da visualização do dashboard.</p>
 <p align="center">
 <img src="https://github.com/Brularissap/dashboard-power-bi/blob/main/visualiza%C3%A7%C3%A3o-dashboard.gif"/>
 </p>
