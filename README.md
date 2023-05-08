@@ -7,10 +7,14 @@
 <h2>Introdução</h2>
 Este repositório demonstra exemplos de dashboards, criados por mim, no Power BI.
 
-<h2>Projeto 1</h2>
-Este primeiro projeto trata do dashboard do desmatamento na Amazônia Legal (AML). O objetivo do dashboard é apresentar o desmatamento na Amazônia Legal com base nos dados do PRODES. 
-O dashboard conta com uma busca por período, o total de polígonos do PRODES, o desmatamento total e um mapa dos estados da Amazônia Legal. 
-Além disso, há uma tabela que mostra o desmatamento acumulado por estado na região, um gráfico que apresenta o desmatamento ao longo do tempo e um gráfico de pizza que exibe a porcentagem do desmatamento por estado.
+<h2>Projeto 1: Dashboard do desmatamento na Amazônia Legal (AML), através dos dados do PRODES</h2>
+O objetivo do dashboard é apresentar o desmatamento na Amazônia Legal com base nos dados do PRODES. 
+O dashboard permite visualizar o desmatamento na Amazônia Legal com base nos dados do PRODES. É possível fazer uma busca por período, visualizar o total de polígonos do PRODES e observar um mapa dos estados da região. Além disso, o dashboard apresenta uma tabela com o desmatamento acumulado por estado na região, um gráfico que exibe a evolução do desmatamento ao longo do tempo e um gráfico de pizza que mostra a porcentagem do desmatamento por estado.
+
+A imagem abaixo apresenta uma prévia da visualização do dashboard.
+<p align="center">
+<img src="https://github.com/Brularissap/dashboard-power-bi/blob/main/visualiza%C3%A7%C3%A3o-dashboard.PNG"/>
+</p>
 
 Para criar o dashboard, utilizei os dados do Incremento anual no desmatamento - Shapefile (2008/2022), para Amazônia Legal, disponível para download no Terra Brasilis. 
 Mais informações sobre a origem desses dados podem ser acessadas através do seguinte link:
