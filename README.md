@@ -17,7 +17,7 @@ A imagem abaixo apresenta uma prévia da visualização do dashboard.
 <img src="https://github.com/Brularissap/dashboard-power-bi/blob/main/visualiza%C3%A7%C3%A3o-dashboard.PNG"/>
 </p>
 
-Para criar o dashboard, utilizei os dados do Incremento anual no desmatamento - Shapefile (2008/2022), para Amazônia Legal, disponível para download no Terra Brasilis. No entanto, antes de importar esses dados diretamente para o Power BI, foi necessário realizar alguns procedimentos técnicos. Primeiramente, abri os dados no software QGIS e os espacializei, antes de exportá-los para uma planilha CSV no Excel. A partir daí, eu iniciei meu trabalho com esses dados no Power BI, onde extrai, transformei, carreguei e tratei as informações para criar o dashboard que apresento neste texto.
+Para criar o dashboard, utilizei os dados do Incremento anual no desmatamento - Shapefile (2008/2022), para Amazônia Legal, disponível para download no Terra Brasilis. No entanto, antes de importar esses dados diretamente para o Power BI, foi necessário realizar alguns procedimentos técnicos. Primeiramente, abri os dados no software QGIS e os espacializei, antes de exportá-los para uma planilha CSV no Excel. A partir daí, eu iniciei meu trabalho com esses dados no Power BI, onde extrai, transformei, carreguei e tratei as informações para criar o dashboard que apresento neste texto. 
   
 Mais informações sobre a origem desses dados podem ser acessadas através do seguinte link:
 
