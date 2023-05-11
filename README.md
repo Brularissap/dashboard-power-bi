@@ -1,6 +1,6 @@
 <h1>  POWER BI | DASHBOARD </h1>
 <h2>Introdução</h2>
-Este repositório demonstra exemplos de dashboards, criados por mim, no Power BI. 
+Este repositório contém exemplos de dashboards criados por mim usando a ferramenta Power BI. O Power BI é uma plataforma de análise de dados poderosa e intuitiva que permite criar visualizações interativas e insights acionáveis a partir de grandes conjuntos de dados. Explore esses projetos para ver como o Power BI pode ser usado para criar dashboards eficazes e visualmente atraentes, com recursos como gráficos, tabelas e filtros interativos.
 
 <h2>Projeto 1: Dashboard do desmatamento na Amazônia Legal (AML), através dos dados do PRODES</h2>
 <p>O objetivo do dashboard é apresentar o desmatamento na Amazônia Legal com base nos dados do PRODES. O PRODES (Projeto de Monitoramento do Desflorestamento na Amazônia Legal por Satélite) é um programa coordenado pelo Instituto Nacional de Pesquisas Espaciais (INPE) que utiliza imagens de satélite para monitorar e quantificar o desmatamento na Amazônia Legal. O programa é capaz de mapear e calcular as áreas desmatadas na região, sendo que a área mínima mapeada é de 6,25 hectares.</p>
