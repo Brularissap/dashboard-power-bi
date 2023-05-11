@@ -30,7 +30,7 @@ Com essas informações, é possível tomar medidas para proteger a Amazônia Le
 
 <h2>Projeto 2: Pet Shop Alura Pets</h2>
 
-Este é um projeto fictício desenvolvido durante o curso de Power BI da Alura. A dona do Petshop, Helô, deseja obter informações sobre as vendas de suas duas marcas de produtos, Doguito e Gatito, ao longo do tempo, bem como identificar quais produtos são mais vendidos, qual o faturamento total, a média de pets por cliente e o gênero que mais compra cada produto. Além disso, Helô tem planos de expansão e quer saber onde abrir uma nova loja com base nas informações de faturamento e clientes. 
+Este é um projeto fictício desenvolvido durante o curso de Power BI que fiz no Alura. A dona do Petshop, Helô, deseja obter informações sobre as vendas de suas duas marcas de produtos, Doguito e Gatito, ao longo do tempo, bem como identificar quais produtos são mais vendidos, qual o faturamento total, a média de pets por cliente e o gênero que mais compra cada produto. Além disso, Helô tem planos de expansão e quer saber onde abrir uma nova loja com base nas informações de faturamento e clientes. 
 
 Com base nas fontes de dados, que incluíam tabelas de vendas em formato Excel, tabela TXT com informações dos clientes e tabela de produtos em formato Excel, utilizei as ferramentas do Power BI para tratar e modelar os dados. A partir disso, criei um dashboard com as informações solicitadas pela proprietária do Petshop Alura Pets, Helô.
   
